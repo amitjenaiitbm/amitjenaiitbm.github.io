@@ -52,7 +52,7 @@ body {
 
 /*
 ============================
-	START OF TEXT CLASSES		 
+	START OF TEXT CLASSES
 ============================
 */
 
@@ -242,14 +242,14 @@ b {
 
 /*
 ============================
-	END OF TEXT CLASSES		 
+	END OF TEXT CLASSES
 ============================
 */
 
 
 /*
 ============================
-	START OF TEXT STYLES		 
+	START OF TEXT STYLES
 ============================
 */
 
@@ -267,14 +267,14 @@ b {
 
 /*
 ============================
-	END OF TEXT STYLES		 
+	END OF TEXT STYLES
 ============================
 */
 
 
 /*
 ==================================
-	START OF HYPERLINK CLASSES		 
+	START OF HYPERLINK CLASSES
 ==================================
 */
 
@@ -301,7 +301,7 @@ a:active
 	color: #FD926F;
 }
 
-a.contact-text {	
+a.contact-text {
 	margin-left: 12px;
 }
 
@@ -388,7 +388,7 @@ a.ref-link:active
 
 /*
 ==================================
-	END OF HYPERLINK CLASSES		 
+	END OF HYPERLINK CLASSES
 ==================================
 */
 
@@ -428,7 +428,7 @@ a.social-icons:active {
 
 /*
 ==================================
-	START OF NAVBAR CLASSES		 
+	START OF NAVBAR CLASSES
 ==================================
 */
 
@@ -483,7 +483,7 @@ div.nav-page-tabs{
 
 /*
 ==================================
-	END OF NAVBAR CLASSES		 
+	END OF NAVBAR CLASSES
 ==================================
 */
 
@@ -522,14 +522,14 @@ div.page-footer{
 
 /*
 ==============================================
-	LANDING PAGE PROJECT IMAGE THUMBNAILS		 
+	LANDING PAGE PROJECT IMAGE THUMBNAILS
 ==============================================
 */
 .portfolio-item{
 	width: 100%;
 	height: 180px;
 	margin: 0px;
-	background-size: 125%; 
+	background-size: 125%;
 	background-position: center center;
 	-webkit-transition: background-size ease .5s;
 	-moz-transition: background-size ease .5s;
@@ -563,7 +563,7 @@ div.cover-text-placeholder{
 
 /*
 ======================================
-	PROJECT PAGE STYLING CLASSES		 
+	PROJECT PAGE STYLING CLASSES
 ======================================
 */
 
