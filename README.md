@@ -1,5 +1,4 @@
-# amitjena
-Amit Jena's site.
+Amit Jena's website.
 
 I am a Ph.D. student at IITB-Monash Research Academy, Mumbai, India.
 
