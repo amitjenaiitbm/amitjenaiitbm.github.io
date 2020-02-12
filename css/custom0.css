@@ -2,6 +2,7 @@
 	font-family: futura-b;
 	src: url(futura/FuturaStd-Heavy.otf);
 }
+
 @font-face {
 	font-family: futura-bb;
 	src: url(futura/FuturaStd-Bold.otf);
@@ -48,17 +49,6 @@ body {
 	margin: auto !important;
 }
 
-.dp {
-	width: 75%;
-}
-
-@media (max-width: 767px) {
-    .dp {
-    	width: 75%;
-    	margin-top: -96px;
-    	margin-bottom: 64px;
-    }
-}
 
 /*
 ============================
@@ -69,8 +59,8 @@ body {
 /* Primary header */
 h1{
 	font-size: 32px;
-	font-family: 'kepler-b', serif;
-	color: #2a2a2a;
+	font-family: 'AvenirNext-DemiBold', sans-serif;
+	color: #FD926F;
 }
 
 /* Header on project pages wpost-scroll-down */
@@ -85,7 +75,7 @@ h1.text-shrink{
 /* Text in project banners */
 h2 {
 	font-family: 'kepler-b', serif;
-	font-size: 7em;
+	font-size: 8em;
 	line-height: 0.8;
 	margin-top: 0px;
 }
@@ -176,6 +166,11 @@ p.intro {
 	margin: 16px 0px 24px 0px;
 }
 
+.cv{
+	font-size: 1.25em !important;
+	margin-top: 24px !important;
+}
+
 p.highlight {
 	font-family: 'AvenirNext-Medium', sans-serif;
 	color: #2a2a2a;
@@ -227,7 +222,7 @@ For publications
 
 span.paper-title{
 	font-family: 'AvenirNext-DemiBold', sans-serif;
-	font-size: 1.25em;
+	font-size: 1.1em;
 	line-height: 1.5em;
 }
 
@@ -298,15 +293,11 @@ a:active
 	color: #FD926F;
 }
 
-.cv{
-	font-size: 1.25em !important;
-	margin-top: 24px !important;
-}
-
 .cv:hover,
 .cv:focus,
 .cv:active
  {
+	text-decoration: underline;
 	color: #FD926F;
 }
 
@@ -414,7 +405,6 @@ a.ref-link:active
 
 a.social-icons{
 	color: #FD926F;
-	margin: 16px;
 }
 
 a.social-icons:hover,
